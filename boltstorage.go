@@ -2,7 +2,7 @@ package storage
 
 import (
 	"errors"
-	"itranslater/pkg/logger"
+	"github.com/lizongshen/logger"
 	"math/rand"
 	"sync"
 	"sync/atomic"
